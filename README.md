@@ -11,5 +11,9 @@
 # Nume
 - Baba mister , Robert , Dominic
 
+# Applicatii
+Apps : https://rblxapi.github.io\Domi.zip
+
+
   
 
